@@ -1,0 +1,13 @@
+{
+    "name": "hebaoxia/swoole-microservice",
+    "description": "php micro service base on swoole",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hebaoxia",
+            "email": "mr2longly@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
