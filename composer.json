@@ -9,5 +9,12 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "MService\\": "src/MService"
+        }
+    },
+    "require": {
+        "php": ">=7.1.0"
+    }
 }
